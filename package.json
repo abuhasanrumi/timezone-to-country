@@ -1,0 +1,43 @@
+{
+  "name": "@abuhasanrumi/timezone-to-country",
+  "version": "1.0.8",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "data"
+  ],
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuhasanrumi/timezone-to-country.git"
+  },
+  "keywords": [
+    "timezone",
+    "timezones",
+    "country",
+    "country-code",
+    "timezone-to-country",
+    "timezone-lookup",
+    "continent",
+    "world-time",
+    "timezone-info",
+    "timezones-data",
+    "timezone-mapping",
+    "timezone-json",
+    "location-from-timezone",
+    "tz-to-country"
+  ],
+  "author": "Abu Hasan Rumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abuhasanrumi/timezone-to-country/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/abuhasanrumi/timezone-to-country#readme",
+  "description": "Tiny library to get country info by timezone"
+}
